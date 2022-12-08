@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MovieWale/static/css/main.dc57bbbc.css",
+    "main.js": "/MovieWale/static/js/main.132b64e9.js",
+    "static/media/profile.jpg": "/MovieWale/static/media/profile.e53e89b47420d178b90e.jpg",
+    "static/media/img2.jpg": "/MovieWale/static/media/img2.9b9f6093471604c586cb.jpg",
+    "static/media/img6.jpg": "/MovieWale/static/media/img6.6c9a011883fc5cfef86e.jpg",
+    "static/media/img5.jpg": "/MovieWale/static/media/img5.947060dda60bd9f4d03a.jpg",
+    "static/media/img3.jpg": "/MovieWale/static/media/img3.ebe6ec134dbc6d333f46.jpg",
+    "static/media/drishyam.jpg": "/MovieWale/static/media/drishyam.acddc9ea88d6518fbc68.jpg",
+    "static/media/img4.jpg": "/MovieWale/static/media/img4.c8491934378d2ca977b9.jpg",
+    "static/media/logo.png": "/MovieWale/static/media/logo.7806abe0c089b5ce0017.png",
+    "index.html": "/MovieWale/index.html",
+    "main.dc57bbbc.css.map": "/MovieWale/static/css/main.dc57bbbc.css.map",
+    "main.132b64e9.js.map": "/MovieWale/static/js/main.132b64e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc57bbbc.css",
+    "static/js/main.132b64e9.js"
+  ]
+}
